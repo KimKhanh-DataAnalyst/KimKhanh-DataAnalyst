@@ -1,4 +1,4 @@
- ***I am ready to contribute and grow in a dynamic analytical environment***
+ ***Ready to learn, grow, and make an impact with data!***
  ***
  kimkhanh199938@gmail.com
 

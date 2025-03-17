@@ -11,8 +11,6 @@
 # Education & Certificates
 Ton Duc Thang University - Languages (English & Chinese for Business) (September 2017 - November 2022)
 
-GPA 8.07/10. Related coursework: Statistics in Business, Data Analytics, Product/Service Innovation
-
 Data Analyst Coaching 1 on 1 Program - Unigap (September 2024)
 
-Completed 16 Datacamp courses and finished 8 hands-on projects from beginner to advanced level (SQL, Power BI, Python, Machine Learning); Joined problem-solving and design thinking training sessions
+- Completed 16 Datacamp courses and finished 8 hands-on projects from beginner to advanced level (SQL, Power BI, Python, Machine Learning); Joined problem-solving and design thinking training sessions
